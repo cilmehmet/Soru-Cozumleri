@@ -1,7 +1,6 @@
 package ortak_soru;
 
-import java.util.Arrays;
-import java.util.Map;
+
 import java.util.Random;
 import java.util.Scanner;
 
